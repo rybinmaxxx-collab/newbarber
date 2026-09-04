@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-      - claude/site-deployment-8dcky9
-      - claude/new-session-0qeeoo
   workflow_dispatch:
 
 permissions:
